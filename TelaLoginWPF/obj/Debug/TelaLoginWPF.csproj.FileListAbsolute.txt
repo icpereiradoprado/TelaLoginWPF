@@ -1,0 +1,15 @@
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\bin\Debug\TelaLoginWPF.exe.config
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\bin\Debug\TelaLoginWPF.exe
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\bin\Debug\TelaLoginWPF.pdb
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\TelaLoginWPF.csproj.AssemblyReference.cache
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\MainWindow.g.cs
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\App.g.cs
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\TelaLoginWPF_MarkupCompile.cache
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\TelaLoginWPF_MarkupCompile.lref
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\MainWindow.baml
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\TelaLoginWPF.g.resources
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\TelaLoginWPF.Properties.Resources.resources
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\TelaLoginWPF.csproj.GenerateResource.cache
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\TelaLoginWPF.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\TelaLoginWPF.exe
+C:\Users\alunos\source\repos\TelaLoginWPF\TelaLoginWPF\obj\Debug\TelaLoginWPF.pdb
